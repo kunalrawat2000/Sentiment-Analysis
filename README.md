@@ -44,10 +44,10 @@ Gives accuracy of 77%
 
 ### 4.	Results
 
-•	From this we can deduce that **SVM** works good for the data.
-•	Our Naive Bayes gives the almost same result as the Multinomial Naive Bayes
-•	Using ensemble learning we combined the result and got a better result.
-•	For this we have used 4000 tweets as the time taken to check the 11000 tweets is very much and takes around 45 minutes.
+- From this we can deduce that **SVM** works good for the data.
+- Our Naive Bayes gives the almost same result as the Multinomial Naive Bayes
+- Using ensemble learning we combined the result and got a better result.
+- For this we have used 4000 tweets as the time taken to check the 11000 tweets is very much and takes around 45 minutes.
  
 
 
